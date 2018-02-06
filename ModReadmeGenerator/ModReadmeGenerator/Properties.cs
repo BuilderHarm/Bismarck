@@ -22,7 +22,7 @@ namespace ModReadmeGenerator
         private string[] starts = new string[] { "Name" };
         public void Read()
         {
-            Console.WriteLine("Test2");
+            Console.WriteLine("Test3");
             string[] lines = File.ReadAllLines(path);
 
             foreach (string line in lines)
