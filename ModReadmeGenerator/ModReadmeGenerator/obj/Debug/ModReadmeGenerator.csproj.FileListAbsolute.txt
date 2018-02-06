@@ -9,3 +9,14 @@ c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModRe
 c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.application
 c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.exe.manifest
 c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.application
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.exe.config
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.exe.manifest
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.application
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.exe
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.pdb
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.exe.manifest
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.application
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.exe
+C:\Users\Harm\Documents\Bismarck\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.pdb
