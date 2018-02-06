@@ -1,0 +1,11 @@
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.exe.config
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.exe
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.pdb
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.csprojResolveAssemblyReference.cache
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.csproj.CoreCompileInputs.cache
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.exe
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.pdb
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.exe.manifest
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\bin\Debug\ModReadmeGenerator.application
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.exe.manifest
+c:\users\harm\source\repos\ModReadmeGenerator\ModReadmeGenerator\obj\Debug\ModReadmeGenerator.application
